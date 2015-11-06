@@ -1,8 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\02. BonusScore\bin\Debug\_02.BonusScore.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\02. BonusScore\bin\Debug\_02.BonusScore.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\02. BonusScore\bin\Debug\_02.BonusScore.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\02. BonusScore\obj\Debug\_02.BonusScore.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\02. BonusScore\obj\Debug\_02.BonusScore.pdb
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\02. BonusScore\bin\Debug\_02.BonusScore.exe.config
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\02. BonusScore\obj\Debug\_02.BonusScore.exe
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\02. BonusScore\obj\Debug\_02.BonusScore.pdb

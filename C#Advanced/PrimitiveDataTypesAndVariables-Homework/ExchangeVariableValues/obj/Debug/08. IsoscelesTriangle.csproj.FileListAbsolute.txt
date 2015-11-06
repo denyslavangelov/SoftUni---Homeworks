@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

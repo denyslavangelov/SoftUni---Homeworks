@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\13. ComparingFloats\bin\Debug\_13.ComparingFloats.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\13. ComparingFloats\bin\Debug\_13.ComparingFloats.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\13. ComparingFloats\bin\Debug\_13.ComparingFloats.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\13. ComparingFloats\obj\Debug\_13.ComparingFloats.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\13. ComparingFloats\obj\Debug\_13.ComparingFloats.pdb

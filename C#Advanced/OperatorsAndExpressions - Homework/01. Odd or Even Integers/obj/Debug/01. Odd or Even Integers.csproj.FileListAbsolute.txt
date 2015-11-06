@@ -1,6 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\01. Odd or Even Integers\bin\Debug\_01.Odd_or_Even_Integers.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\01. Odd or Even Integers\obj\Debug\_01.Odd_or_Even_Integers.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\01. Odd or Even Integers\obj\Debug\01. Odd or Even Integers.csprojResolveAssemblyReference.cache

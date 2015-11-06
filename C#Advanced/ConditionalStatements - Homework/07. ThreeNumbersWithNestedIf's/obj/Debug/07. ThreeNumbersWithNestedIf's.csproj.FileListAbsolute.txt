@@ -1,8 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\07. ThreeNumbersWithNestedIf's\bin\Debug\_07.ThreeNumbersWithNestedIf_s.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\07. ThreeNumbersWithNestedIf's\bin\Debug\_07.ThreeNumbersWithNestedIf_s.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\07. ThreeNumbersWithNestedIf's\bin\Debug\_07.ThreeNumbersWithNestedIf_s.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\07. ThreeNumbersWithNestedIf's\obj\Debug\_07.ThreeNumbersWithNestedIf_s.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\07. ThreeNumbersWithNestedIf's\obj\Debug\_07.ThreeNumbersWithNestedIf_s.pdb
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\07. ThreeNumbersWithNestedIf's\bin\Debug\_07.ThreeNumbersWithNestedIf_s.exe.config
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\07. ThreeNumbersWithNestedIf's\obj\Debug\_07.ThreeNumbersWithNestedIf_s.exe
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\07. ThreeNumbersWithNestedIf's\obj\Debug\_07.ThreeNumbersWithNestedIf_s.pdb

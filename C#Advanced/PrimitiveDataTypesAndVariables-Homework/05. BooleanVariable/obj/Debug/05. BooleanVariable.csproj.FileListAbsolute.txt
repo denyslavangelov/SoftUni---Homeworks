@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\05. BooleanVariable\bin\Debug\_05.BooleanVariable.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\05. BooleanVariable\bin\Debug\_05.BooleanVariable.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\05. BooleanVariable\bin\Debug\_05.BooleanVariable.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\05. BooleanVariable\obj\Debug\_05.BooleanVariable.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\05. BooleanVariable\obj\Debug\_05.BooleanVariable.pdb

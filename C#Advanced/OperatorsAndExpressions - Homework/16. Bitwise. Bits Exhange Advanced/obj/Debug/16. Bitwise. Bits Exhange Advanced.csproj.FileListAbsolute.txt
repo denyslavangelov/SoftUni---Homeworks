@@ -1,1 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\16. Bitwise. Bits Exhange Advanced\bin\Debug\_16.Bitwise.Bits_Exhange_Advanced.exe.config

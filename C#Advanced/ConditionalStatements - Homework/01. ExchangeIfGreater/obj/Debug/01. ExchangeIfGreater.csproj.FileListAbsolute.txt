@@ -1,8 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\ConditionalStatements - Homework\bin\Debug\ConditionalStatements - Homework.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\ConditionalStatements - Homework\bin\Debug\ConditionalStatements - Homework.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\ConditionalStatements - Homework\bin\Debug\ConditionalStatements - Homework.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\ConditionalStatements - Homework\obj\Debug\ConditionalStatements - Homework.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\ConditionalStatements - Homework\obj\Debug\ConditionalStatements - Homework.pdb
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\ConditionalStatements - Homework\bin\Debug\ConditionalStatements - Homework.exe.config
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\ConditionalStatements - Homework\obj\Debug\ConditionalStatements - Homework.exe
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\ConditionalStatements - Homework\obj\Debug\ConditionalStatements - Homework.pdb

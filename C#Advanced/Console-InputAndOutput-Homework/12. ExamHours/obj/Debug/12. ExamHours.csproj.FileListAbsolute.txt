@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\12. ExamHours\bin\Debug\_12.ExamHours.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\12. ExamHours\bin\Debug\_12.ExamHours.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\12. ExamHours\bin\Debug\_12.ExamHours.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\12. ExamHours\obj\Debug\_12.ExamHours.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\12. ExamHours\obj\Debug\_12.ExamHours.pdb

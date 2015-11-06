@@ -1,1 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\16. HalfSum\bin\Debug\_16.HalfSum.exe.config

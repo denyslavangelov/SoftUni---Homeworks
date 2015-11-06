@@ -1,5 +1,0 @@
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\11. NumberAsWords\bin\Debug\_11.NumberAsWords.exe.config
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\11. NumberAsWords\bin\Debug\_11.NumberAsWords.exe
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\11. NumberAsWords\bin\Debug\_11.NumberAsWords.pdb
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\11. NumberAsWords\obj\Debug\_11.NumberAsWords.exe
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\11. NumberAsWords\obj\Debug\_11.NumberAsWords.pdb

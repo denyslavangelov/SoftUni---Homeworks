@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\11. DiviadableNumbers\bin\Debug\_11.DiviadableNumbers.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\11. DiviadableNumbers\bin\Debug\_11.DiviadableNumbers.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\11. DiviadableNumbers\bin\Debug\_11.DiviadableNumbers.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\11. DiviadableNumbers\obj\Debug\_11.DiviadableNumbers.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\11. DiviadableNumbers\obj\Debug\_11.DiviadableNumbers.pdb

@@ -1,6 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\10. InsideCircleOrOutsideRectangle\bin\Debug\_10.InsideCircleOrOutsideRectangle.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\10. InsideCircleOrOutsideRectangle\bin\Debug\_10.InsideCircleOrOutsideRectangle.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\10. InsideCircleOrOutsideRectangle\bin\Debug\_10.InsideCircleOrOutsideRectangle.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\10. InsideCircleOrOutsideRectangle\obj\Debug\_10.InsideCircleOrOutsideRectangle.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\10. InsideCircleOrOutsideRectangle\obj\Debug\_10.InsideCircleOrOutsideRectangle.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\10. InsideCircleOrOutsideRectangle\obj\Debug\10. InsideCircleOrOutsideRectangle.csprojResolveAssemblyReference.cache

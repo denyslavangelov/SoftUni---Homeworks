@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\07. SumFiveNumbers\bin\Debug\_07.SumFiveNumbers.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\07. SumFiveNumbers\bin\Debug\_07.SumFiveNumbers.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\07. SumFiveNumbers\bin\Debug\_07.SumFiveNumbers.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\07. SumFiveNumbers\obj\Debug\_07.SumFiveNumbers.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\07. SumFiveNumbers\obj\Debug\_07.SumFiveNumbers.pdb

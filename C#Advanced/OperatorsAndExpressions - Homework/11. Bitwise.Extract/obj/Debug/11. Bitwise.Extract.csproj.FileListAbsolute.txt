@@ -1,1 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\11. Bitwise.Extract\bin\Debug\_11.Bitwise.Extract.exe.config

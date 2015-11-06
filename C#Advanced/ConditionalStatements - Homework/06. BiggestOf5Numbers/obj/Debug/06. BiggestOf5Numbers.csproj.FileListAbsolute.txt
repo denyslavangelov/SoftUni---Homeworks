@@ -1,3 +1,0 @@
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\05. BiggestOf5Numbers\bin\Debug\_05.BiggestOf5Numbers.exe.config
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\05. BiggestOf5Numbers\obj\Debug\_05.BiggestOf5Numbers.exe
-D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\05. BiggestOf5Numbers\obj\Debug\_05.BiggestOf5Numbers.pdb

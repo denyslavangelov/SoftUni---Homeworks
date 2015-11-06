@@ -1,6 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\05. BiggestOf5Numbers\bin\Debug\_05.BiggestOf5Numbers.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\05. BiggestOf5Numbers\bin\Debug\_05.BiggestOf5Numbers.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\05. BiggestOf5Numbers\bin\Debug\_05.BiggestOf5Numbers.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\05. BiggestOf5Numbers\obj\Debug\_05.BiggestOf5Numbers.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\05. BiggestOf5Numbers\obj\Debug\_05.BiggestOf5Numbers.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\05. BiggestOf5Numbers\obj\Debug\05. BiggestOf5Numbers.csprojResolveAssemblyReference.cache

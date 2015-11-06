@@ -1,6 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\06. StringsAndObjects\obj\Debug\_06.StringsAndObjects.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\06. StringsAndObjects\obj\Debug\_06.StringsAndObjects.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\06. StringsAndObjects\obj\Debug\06. StringsAndObjects.csprojResolveAssemblyReference.cache

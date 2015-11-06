@@ -1,6 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 03.The Explorer\bin\Debug\Exam. 03.The Explorer.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 03.The Explorer\bin\Debug\Exam. 03.The Explorer.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 03.The Explorer\bin\Debug\Exam. 03.The Explorer.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 03.The Explorer\obj\Debug\Exam. 03.The Explorer.csprojResolveAssemblyReference.cache
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 03.The Explorer\obj\Debug\Exam. 03.The Explorer.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 03.The Explorer\obj\Debug\Exam. 03.The Explorer.pdb

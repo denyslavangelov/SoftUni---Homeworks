@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\12. Bitwise.ExtractBitFromInteger\bin\Debug\_12.Bitwise.ExtractBitFromInteger.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\12. Bitwise.ExtractBitFromInteger\bin\Debug\_12.Bitwise.ExtractBitFromInteger.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\12. Bitwise.ExtractBitFromInteger\bin\Debug\_12.Bitwise.ExtractBitFromInteger.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\12. Bitwise.ExtractBitFromInteger\obj\Debug\_12.Bitwise.ExtractBitFromInteger.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\12. Bitwise.ExtractBitFromInteger\obj\Debug\_12.Bitwise.ExtractBitFromInteger.pdb

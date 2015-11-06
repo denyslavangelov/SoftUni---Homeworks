@@ -1,6 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\17. Sunglasses\bin\Debug\_17.Sunglasses.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\17. Sunglasses\bin\Debug\_17.Sunglasses.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\17. Sunglasses\bin\Debug\_17.Sunglasses.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\17. Sunglasses\obj\Debug\17. Sunglasses.csprojResolveAssemblyReference.cache
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\17. Sunglasses\obj\Debug\_17.Sunglasses.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\17. Sunglasses\obj\Debug\_17.Sunglasses.pdb

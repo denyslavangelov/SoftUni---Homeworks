@@ -1,6 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\11. Bitwise.Extract\bin\Debug\_11.Bitwise.Extract.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\11. Bitwise.Extract\bin\Debug\_11.Bitwise.Extract.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\11. Bitwise.Extract\bin\Debug\_11.Bitwise.Extract.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\11. Bitwise.Extract\obj\Debug\11. Bitwise.ExtractTheThirdBit.csprojResolveAssemblyReference.cache
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\11. Bitwise.Extract\obj\Debug\_11.Bitwise.Extract.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\11. Bitwise.Extract\obj\Debug\_11.Bitwise.Extract.pdb

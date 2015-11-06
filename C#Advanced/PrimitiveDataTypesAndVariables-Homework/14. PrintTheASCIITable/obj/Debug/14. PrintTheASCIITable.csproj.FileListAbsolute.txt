@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\14. PrintTheASCIITable\obj\Debug\_14.PrintTheASCIITable.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\14. PrintTheASCIITable\obj\Debug\_14.PrintTheASCIITable.pdb

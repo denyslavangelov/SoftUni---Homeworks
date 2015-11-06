@@ -1,6 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\11. BankAccountData\bin\Debug\_11.BankAccountData.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\11. BankAccountData\bin\Debug\_11.BankAccountData.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\11. BankAccountData\bin\Debug\_11.BankAccountData.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\11. BankAccountData\obj\Debug\11. BankAccountData.csprojResolveAssemblyReference.cache
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\11. BankAccountData\obj\Debug\_11.BankAccountData.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\11. BankAccountData\obj\Debug\_11.BankAccountData.pdb

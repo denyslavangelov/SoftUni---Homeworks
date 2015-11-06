@@ -1,6 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\12. NullValuesArithmetic\bin\Debug\_12.NullValuesArithmetic.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\12. NullValuesArithmetic\bin\Debug\_12.NullValuesArithmetic.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\12. NullValuesArithmetic\bin\Debug\_12.NullValuesArithmetic.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\12. NullValuesArithmetic\obj\Debug\12. NullValuesArithmetic.csprojResolveAssemblyReference.cache
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\12. NullValuesArithmetic\obj\Debug\_12.NullValuesArithmetic.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\12. NullValuesArithmetic\obj\Debug\_12.NullValuesArithmetic.pdb

@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\08. Prime Number Check\bin\Debug\_08.Prime_Number_Check.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\08. Prime Number Check\obj\Debug\_08.Prime_Number_Check.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\08. Prime Number Check\obj\Debug\_08.Prime_Number_Check.pdb

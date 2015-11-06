@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\05. Is The Third Digit 7\bin\Debug\_05.Is_The_Third_Digit_7.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\05. Is The Third Digit 7\bin\Debug\_05.Is_The_Third_Digit_7.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\05. Is The Third Digit 7\bin\Debug\_05.Is_The_Third_Digit_7.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\05. Is The Third Digit 7\obj\Debug\_05.Is_The_Third_Digit_7.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\05. Is The Third Digit 7\obj\Debug\_05.Is_The_Third_Digit_7.pdb

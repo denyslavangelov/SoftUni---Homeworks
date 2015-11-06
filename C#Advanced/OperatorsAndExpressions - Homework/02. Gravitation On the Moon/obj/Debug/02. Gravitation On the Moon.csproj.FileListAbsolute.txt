@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\02. Gravitation On the Moon\bin\Debug\_02.Gravitation_On_the_Moon.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\02. Gravitation On the Moon\bin\Debug\_02.Gravitation_On_the_Moon.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\02. Gravitation On the Moon\bin\Debug\_02.Gravitation_On_the_Moon.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\02. Gravitation On the Moon\obj\Debug\_02.Gravitation_On_the_Moon.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\02. Gravitation On the Moon\obj\Debug\_02.Gravitation_On_the_Moon.pdb
