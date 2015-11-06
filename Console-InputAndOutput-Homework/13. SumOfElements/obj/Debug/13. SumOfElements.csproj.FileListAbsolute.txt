@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\13. SumOfElements\bin\Debug\_13.SumOfElements.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\13. SumOfElements\bin\Debug\_13.SumOfElements.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\13. SumOfElements\bin\Debug\_13.SumOfElements.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\13. SumOfElements\obj\Debug\_13.SumOfElements.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\13. SumOfElements\obj\Debug\_13.SumOfElements.pdb

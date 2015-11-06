@@ -1,5 +1,0 @@
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\14. NewHouse\bin\Debug\_14.NewHouse.exe.config
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\14. NewHouse\bin\Debug\_14.NewHouse.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\14. NewHouse\bin\Debug\_14.NewHouse.pdb
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\14. NewHouse\obj\Debug\_14.NewHouse.exe
-C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\14. NewHouse\obj\Debug\_14.NewHouse.pdb
