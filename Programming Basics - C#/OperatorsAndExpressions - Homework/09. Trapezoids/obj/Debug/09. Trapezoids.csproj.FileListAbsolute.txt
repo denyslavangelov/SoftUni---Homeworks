@@ -1,0 +1,5 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\09. Trapezoids\bin\Debug\_09.Trapezoids.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

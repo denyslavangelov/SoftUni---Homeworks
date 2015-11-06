@@ -1,0 +1,5 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\04. Rectangle\bin\Debug\_04.Rectangle.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\04. Rectangle\bin\Debug\_04.Rectangle.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\04. Rectangle\bin\Debug\_04.Rectangle.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\04. Rectangle\obj\Debug\_04.Rectangle.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\04. Rectangle\obj\Debug\_04.Rectangle.pdb

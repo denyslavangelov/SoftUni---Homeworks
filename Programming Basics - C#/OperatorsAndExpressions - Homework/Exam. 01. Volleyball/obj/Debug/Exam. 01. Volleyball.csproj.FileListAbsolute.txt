@@ -1,0 +1,6 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 01. Volleyball\bin\Debug\Exam._01.Volleyball.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 01. Volleyball\bin\Debug\Exam._01.Volleyball.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 01. Volleyball\bin\Debug\Exam._01.Volleyball.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 01. Volleyball\obj\Debug\Exam._01.Volleyball.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 01. Volleyball\obj\Debug\Exam._01.Volleyball.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 01. Volleyball\obj\Debug\Exam. 01. Volleyball.csprojResolveAssemblyReference.cache

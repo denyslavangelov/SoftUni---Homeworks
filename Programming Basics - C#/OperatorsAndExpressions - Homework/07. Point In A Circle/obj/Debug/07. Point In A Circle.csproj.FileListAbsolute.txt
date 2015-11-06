@@ -1,0 +1,5 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\07. Point In A Circle\bin\Debug\_07.Point_In_A_Circle.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\07. Point In A Circle\bin\Debug\_07.Point_In_A_Circle.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\07. Point In A Circle\bin\Debug\_07.Point_In_A_Circle.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\07. Point In A Circle\obj\Debug\_07.Point_In_A_Circle.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\07. Point In A Circle\obj\Debug\_07.Point_In_A_Circle.pdb

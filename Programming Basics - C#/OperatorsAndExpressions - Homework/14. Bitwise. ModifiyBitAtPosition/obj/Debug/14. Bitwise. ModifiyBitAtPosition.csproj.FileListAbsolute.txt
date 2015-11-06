@@ -1,0 +1,6 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\14. Bitwise. ModifiyBitAtPosition\bin\Debug\_14.Bitwise.ModifiyBitAtPosition.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\14. Bitwise. ModifiyBitAtPosition\bin\Debug\_14.Bitwise.ModifiyBitAtPosition.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\14. Bitwise. ModifiyBitAtPosition\bin\Debug\_14.Bitwise.ModifiyBitAtPosition.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\14. Bitwise. ModifiyBitAtPosition\obj\Debug\14. Bitwise. ModifiyBitAtPosition.csprojResolveAssemblyReference.cache
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\14. Bitwise. ModifiyBitAtPosition\obj\Debug\_14.Bitwise.ModifiyBitAtPosition.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\14. Bitwise. ModifiyBitAtPosition\obj\Debug\_14.Bitwise.ModifiyBitAtPosition.pdb

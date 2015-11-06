@@ -1,0 +1,8 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\08. DigitAsAWord\bin\Debug\_08.DigitAsAWord.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\08. DigitAsAWord\bin\Debug\_08.DigitAsAWord.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\08. DigitAsAWord\bin\Debug\_08.DigitAsAWord.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\08. DigitAsAWord\obj\Debug\_08.DigitAsAWord.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\08. DigitAsAWord\obj\Debug\_08.DigitAsAWord.pdb
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\08. DigitAsAWord\bin\Debug\_08.DigitAsAWord.exe.config
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\08. DigitAsAWord\obj\Debug\_08.DigitAsAWord.exe
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\08. DigitAsAWord\obj\Debug\_08.DigitAsAWord.pdb

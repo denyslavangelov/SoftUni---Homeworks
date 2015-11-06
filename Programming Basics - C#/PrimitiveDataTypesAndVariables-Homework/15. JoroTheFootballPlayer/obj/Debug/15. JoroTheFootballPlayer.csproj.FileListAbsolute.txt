@@ -1,0 +1,6 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\15. JoroTheFootballPlayer\bin\Debug\_15.JoroTheFootballPlayer.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\15. JoroTheFootballPlayer\bin\Debug\_15.JoroTheFootballPlayer.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\15. JoroTheFootballPlayer\bin\Debug\_15.JoroTheFootballPlayer.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\15. JoroTheFootballPlayer\obj\Debug\15. JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\15. JoroTheFootballPlayer\obj\Debug\_15.JoroTheFootballPlayer.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\15. JoroTheFootballPlayer\obj\Debug\_15.JoroTheFootballPlayer.pdb
