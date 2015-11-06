@@ -1,0 +1,5 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\02. PrintCompanyInformation\bin\Debug\_02.PrintCompanyInformation.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\02. PrintCompanyInformation\bin\Debug\_02.PrintCompanyInformation.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\02. PrintCompanyInformation\bin\Debug\_02.PrintCompanyInformation.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\02. PrintCompanyInformation\obj\Debug\_02.PrintCompanyInformation.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\02. PrintCompanyInformation\obj\Debug\_02.PrintCompanyInformation.pdb
