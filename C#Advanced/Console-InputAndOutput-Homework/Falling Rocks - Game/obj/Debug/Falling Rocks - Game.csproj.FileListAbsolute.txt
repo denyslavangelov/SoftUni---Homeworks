@@ -1,0 +1,6 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\Falling Rocks - Game\bin\Debug\Falling Rocks - Game.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\Falling Rocks - Game\bin\Debug\Falling Rocks - Game.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\Falling Rocks - Game\bin\Debug\Falling Rocks - Game.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\Falling Rocks - Game\obj\Debug\Falling Rocks - Game.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\Falling Rocks - Game\obj\Debug\Falling Rocks - Game.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\Falling Rocks - Game\obj\Debug\Falling Rocks - Game.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\12. ZeroSubset\bin\Debug\_12.ZeroSubset.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\03. CirclePerimeterAndArea\bin\Debug\_03.CirclePerimeterAndArea.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\03. CirclePerimeterAndArea\bin\Debug\_03.CirclePerimeterAndArea.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\03. CirclePerimeterAndArea\bin\Debug\_03.CirclePerimeterAndArea.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\03. CirclePerimeterAndArea\obj\Debug\_03.CirclePerimeterAndArea.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\03. CirclePerimeterAndArea\obj\Debug\_03.CirclePerimeterAndArea.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\Console-InputAndOutput-Homework\03. CirclePerimeterAndArea\obj\Debug\03. CirclePerimeterAndArea.csprojResolveAssemblyReference.cache

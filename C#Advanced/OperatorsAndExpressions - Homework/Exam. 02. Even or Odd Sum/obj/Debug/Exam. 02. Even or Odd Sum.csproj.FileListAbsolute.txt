@@ -1,0 +1,1 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\OperatorsAndExpressions - Homework\Exam. 02. Even or Odd Sum\bin\Debug\Exam._02.Even_or_Odd_Sum.exe.config

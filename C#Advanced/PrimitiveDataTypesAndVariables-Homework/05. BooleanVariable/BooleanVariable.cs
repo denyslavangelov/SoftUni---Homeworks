@@ -1,0 +1,13 @@
+﻿using System;
+
+class BooleanVariable
+{
+    static void Main()
+    {
+        bool isFemale = false;
+
+        // Output
+        Console.WriteLine(isFemale);
+    }
+}
+

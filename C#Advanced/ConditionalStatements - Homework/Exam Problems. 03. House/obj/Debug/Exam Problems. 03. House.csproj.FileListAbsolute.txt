@@ -1,0 +1,6 @@
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\Exam Problems. 03. House\bin\Debug\Exam_Problems._03.House.exe.config
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\Exam Problems. 03. House\bin\Debug\Exam_Problems._03.House.exe
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\Exam Problems. 03. House\bin\Debug\Exam_Problems._03.House.pdb
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\Exam Problems. 03. House\obj\Debug\Exam Problems. 03. House.csprojResolveAssemblyReference.cache
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\Exam Problems. 03. House\obj\Debug\Exam_Problems._03.House.exe
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\Exam Problems. 03. House\obj\Debug\Exam_Problems._03.House.pdb

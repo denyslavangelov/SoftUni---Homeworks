@@ -1,0 +1,5 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\04. UnicodeCharacter\obj\Debug\_04.UnicodeCharacter.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\04. UnicodeCharacter\obj\Debug\_04.UnicodeCharacter.pdb

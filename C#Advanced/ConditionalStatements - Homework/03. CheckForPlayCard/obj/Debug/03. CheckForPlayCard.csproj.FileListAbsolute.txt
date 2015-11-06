@@ -1,0 +1,12 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\03. CheckForPlayCard\bin\Debug\_03.CheckForPlayCard.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\03. CheckForPlayCard\obj\Debug\03. CheckForPlayCard.csprojResolveAssemblyReference.cache
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\03. CheckForPlayCard\bin\Debug\_03.CheckForPlayCard.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\03. CheckForPlayCard\bin\Debug\_03.CheckForPlayCard.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\03. CheckForPlayCard\obj\Debug\_03.CheckForPlayCard.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\03. CheckForPlayCard\obj\Debug\_03.CheckForPlayCard.pdb
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\03. CheckForPlayCard\bin\Debug\_03.CheckForPlayCard.exe.config
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\03. CheckForPlayCard\obj\Debug\_03.CheckForPlayCard.exe
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\03. CheckForPlayCard\obj\Debug\_03.CheckForPlayCard.pdb
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\03. CheckForPlayCard\bin\Debug\_03.CheckForPlayCard.exe
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\03. CheckForPlayCard\bin\Debug\_03.CheckForPlayCard.pdb
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\03. CheckForPlayCard\obj\Debug\03. CheckForPlayCard.csprojResolveAssemblyReference.cache

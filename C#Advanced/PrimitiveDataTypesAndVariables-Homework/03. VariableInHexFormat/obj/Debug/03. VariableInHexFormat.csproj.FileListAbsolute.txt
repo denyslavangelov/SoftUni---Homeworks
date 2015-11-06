@@ -1,0 +1,5 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\03. VariableInHexFormat\bin\Debug\_03.VariableInHexFormat.exe.config
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\03. VariableInHexFormat\bin\Debug\_03.VariableInHexFormat.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\03. VariableInHexFormat\bin\Debug\_03.VariableInHexFormat.pdb
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\03. VariableInHexFormat\obj\Debug\_03.VariableInHexFormat.exe
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\PrimitiveDataTypesAndVariables-Homework\03. VariableInHexFormat\obj\Debug\_03.VariableInHexFormat.pdb

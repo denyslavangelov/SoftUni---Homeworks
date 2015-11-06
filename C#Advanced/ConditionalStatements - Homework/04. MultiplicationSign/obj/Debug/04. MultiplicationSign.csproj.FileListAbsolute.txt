@@ -1,0 +1,2 @@
+C:\Users\Deny\Documents\Visual Studio 2012\Projects\HelloCSharp\ConditionalStatements - Homework\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe.config
+D:\Programming\HelloCSharp\HelloCSharp\ConditionalStatements - Homework\04. MultiplicationSign\bin\Debug\_04.MultiplicationSign.exe.config
