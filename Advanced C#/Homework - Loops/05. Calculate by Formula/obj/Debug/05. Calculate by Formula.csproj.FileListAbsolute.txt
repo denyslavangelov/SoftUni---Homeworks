@@ -1,0 +1,5 @@
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\05. Calculate by Formula\bin\Debug\_05.Calculate_by_Formula.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\05. Calculate by Formula\bin\Debug\_05.Calculate_by_Formula.exe
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\05. Calculate by Formula\bin\Debug\_05.Calculate_by_Formula.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\05. Calculate by Formula\obj\Debug\_05.Calculate_by_Formula.exe
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\05. Calculate by Formula\obj\Debug\_05.Calculate_by_Formula.pdb

@@ -1,0 +1,6 @@
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\01. NumbersFromOneTo 'N'\bin\Debug\_01.NumbersFromOneTo__N_.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\01. NumbersFromOneTo 'N'\bin\Debug\_01.NumbersFromOneTo__N_.exe
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\01. NumbersFromOneTo 'N'\bin\Debug\_01.NumbersFromOneTo__N_.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\01. NumbersFromOneTo 'N'\obj\Debug\01. NumbersFromOneTo 'N'.csprojResolveAssemblyReference.cache
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\01. NumbersFromOneTo 'N'\obj\Debug\_01.NumbersFromOneTo__N_.exe
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\01. NumbersFromOneTo 'N'\obj\Debug\_01.NumbersFromOneTo__N_.pdb

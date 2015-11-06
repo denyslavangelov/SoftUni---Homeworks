@@ -1,0 +1,3 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Regular Expressions\03. Extract Problems\bin\Debug\_03.Extract_Problems.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Regular Expressions\03. Extract Problems\obj\Debug\_03.Extract_Problems.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Regular Expressions\03. Extract Problems\obj\Debug\_03.Extract_Problems.pdb

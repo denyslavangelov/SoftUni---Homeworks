@@ -1,0 +1,5 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Multidimensional Arrays, Sets, Dictionaries\04. Sequance in Matrix\bin\Debug\_04.Sequance_in_Matrix.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Multidimensional Arrays, Sets, Dictionaries\04. Sequance in Matrix\bin\Debug\_04.Sequance_in_Matrix.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Multidimensional Arrays, Sets, Dictionaries\04. Sequance in Matrix\bin\Debug\_04.Sequance_in_Matrix.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Multidimensional Arrays, Sets, Dictionaries\04. Sequance in Matrix\obj\Debug\_04.Sequance_in_Matrix.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Multidimensional Arrays, Sets, Dictionaries\04. Sequance in Matrix\obj\Debug\_04.Sequance_in_Matrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\17. GreatesCommonDivisor\bin\Debug\_17.GreatesCommonDivisor.exe.config
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\17. GreatesCommonDivisor\bin\Debug\_17.GreatesCommonDivisor.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\17. GreatesCommonDivisor\bin\Debug\_17.GreatesCommonDivisor.pdb
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\17. GreatesCommonDivisor\obj\Debug\17. GreatesCommonDivisor.csprojResolveAssemblyReference.cache
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\17. GreatesCommonDivisor\obj\Debug\_17.GreatesCommonDivisor.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\17. GreatesCommonDivisor\obj\Debug\_17.GreatesCommonDivisor.pdb

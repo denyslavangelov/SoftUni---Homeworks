@@ -1,0 +1,5 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Multidimensional Arrays, Sets, Dictionaries\05. Collect the Coins\bin\Debug\_05.Collect_the_Coins.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Multidimensional Arrays, Sets, Dictionaries\05. Collect the Coins\bin\Debug\_05.Collect_the_Coins.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Multidimensional Arrays, Sets, Dictionaries\05. Collect the Coins\bin\Debug\_05.Collect_the_Coins.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Multidimensional Arrays, Sets, Dictionaries\05. Collect the Coins\obj\Debug\_05.Collect_the_Coins.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Multidimensional Arrays, Sets, Dictionaries\05. Collect the Coins\obj\Debug\_05.Collect_the_Coins.pdb

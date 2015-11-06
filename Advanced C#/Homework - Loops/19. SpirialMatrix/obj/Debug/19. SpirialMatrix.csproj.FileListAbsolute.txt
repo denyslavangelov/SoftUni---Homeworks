@@ -1,0 +1,5 @@
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\19. SpirialMatrix\bin\Debug\_19.SpirialMatrix.exe.config
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\19. SpirialMatrix\bin\Debug\_19.SpirialMatrix.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\19. SpirialMatrix\bin\Debug\_19.SpirialMatrix.pdb
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\19. SpirialMatrix\obj\Debug\_19.SpirialMatrix.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\19. SpirialMatrix\obj\Debug\_19.SpirialMatrix.pdb

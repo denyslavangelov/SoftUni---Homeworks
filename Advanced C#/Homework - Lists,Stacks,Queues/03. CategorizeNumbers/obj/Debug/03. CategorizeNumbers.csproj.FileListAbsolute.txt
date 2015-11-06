@@ -1,0 +1,5 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Lists,Stacks,Queues\03. CategorizeNumbers\bin\Debug\_03.CategorizeNumbers.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Lists,Stacks,Queues\03. CategorizeNumbers\bin\Debug\_03.CategorizeNumbers.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Lists,Stacks,Queues\03. CategorizeNumbers\bin\Debug\_03.CategorizeNumbers.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Lists,Stacks,Queues\03. CategorizeNumbers\obj\Debug\_03.CategorizeNumbers.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Lists,Stacks,Queues\03. CategorizeNumbers\obj\Debug\_03.CategorizeNumbers.pdb

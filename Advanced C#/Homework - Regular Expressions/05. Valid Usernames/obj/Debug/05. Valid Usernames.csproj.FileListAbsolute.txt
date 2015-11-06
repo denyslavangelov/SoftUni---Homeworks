@@ -1,0 +1,1 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Regular Expressions\05. Valid Usernames\bin\Debug\_05.Valid_Usernames.exe.config

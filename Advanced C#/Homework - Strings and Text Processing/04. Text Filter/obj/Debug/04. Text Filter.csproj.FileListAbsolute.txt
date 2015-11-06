@@ -1,0 +1,5 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Strings and Text Processing\04. Text Filter\bin\Debug\_04.Text_Filter.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Strings and Text Processing\04. Text Filter\bin\Debug\_04.Text_Filter.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Strings and Text Processing\04. Text Filter\bin\Debug\_04.Text_Filter.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Strings and Text Processing\04. Text Filter\obj\Debug\_04.Text_Filter.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Strings and Text Processing\04. Text Filter\obj\Debug\_04.Text_Filter.pdb

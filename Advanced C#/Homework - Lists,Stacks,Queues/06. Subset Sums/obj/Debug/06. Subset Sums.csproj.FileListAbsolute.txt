@@ -1,0 +1,6 @@
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Homework - Lists,Stacks,Queues\06. Subset Sums\bin\Debug\_06.Subset_Sums.exe.config
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Homework - Lists,Stacks,Queues\06. Subset Sums\bin\Debug\_06.Subset_Sums.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Homework - Lists,Stacks,Queues\06. Subset Sums\bin\Debug\_06.Subset_Sums.pdb
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Homework - Lists,Stacks,Queues\06. Subset Sums\obj\Debug\06. Subset Sums.csprojResolveAssemblyReference.cache
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Homework - Lists,Stacks,Queues\06. Subset Sums\obj\Debug\_06.Subset_Sums.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Homework - Lists,Stacks,Queues\06. Subset Sums\obj\Debug\_06.Subset_Sums.pdb

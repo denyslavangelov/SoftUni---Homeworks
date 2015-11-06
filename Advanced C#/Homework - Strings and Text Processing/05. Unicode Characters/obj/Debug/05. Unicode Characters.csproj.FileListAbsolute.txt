@@ -1,0 +1,5 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Strings and Text Processing\05. Unicode Characters\bin\Debug\_05.Unicode_Characters.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Strings and Text Processing\05. Unicode Characters\bin\Debug\_05.Unicode_Characters.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Strings and Text Processing\05. Unicode Characters\bin\Debug\_05.Unicode_Characters.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Strings and Text Processing\05. Unicode Characters\obj\Debug\_05.Unicode_Characters.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Strings and Text Processing\05. Unicode Characters\obj\Debug\_05.Unicode_Characters.pdb

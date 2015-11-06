@@ -1,0 +1,1 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Multidimensional Arrays, Sets, Dictionaries\02. Maximal Sum\bin\Debug\_02.Maximal_Sum.exe.config

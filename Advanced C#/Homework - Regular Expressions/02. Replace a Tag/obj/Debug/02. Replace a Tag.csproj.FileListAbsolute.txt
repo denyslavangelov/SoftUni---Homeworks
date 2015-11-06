@@ -1,0 +1,5 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Regular Expressions\02. Replace a Tag\bin\Debug\_02.Replace_a_Tag.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Regular Expressions\02. Replace a Tag\bin\Debug\_02.Replace_a_Tag.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Regular Expressions\02. Replace a Tag\bin\Debug\_02.Replace_a_Tag.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Regular Expressions\02. Replace a Tag\obj\Debug\_02.Replace_a_Tag.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Regular Expressions\02. Replace a Tag\obj\Debug\_02.Replace_a_Tag.pdb

@@ -1,0 +1,3 @@
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\02. NumbersNotDividableBySevenAndThree\bin\Debug\_02.NumbersNotDividableBySevenAndThree.exe.config
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\02. NumbersNotDividableBySevenAndThree\obj\Debug\_02.NumbersNotDividableBySevenAndThree.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\02. NumbersNotDividableBySevenAndThree\obj\Debug\_02.NumbersNotDividableBySevenAndThree.pdb

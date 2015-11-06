@@ -1,0 +1,5 @@
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\Exam Problems. 01. Exam Schedule\bin\Debug\Exam_Problems._01.Exam_Schedule.exe.config
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\Exam Problems. 01. Exam Schedule\bin\Debug\Exam_Problems._01.Exam_Schedule.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\Exam Problems. 01. Exam Schedule\bin\Debug\Exam_Problems._01.Exam_Schedule.pdb
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\Exam Problems. 01. Exam Schedule\obj\Debug\Exam_Problems._01.Exam_Schedule.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\Exam Problems. 01. Exam Schedule\obj\Debug\Exam_Problems._01.Exam_Schedule.pdb

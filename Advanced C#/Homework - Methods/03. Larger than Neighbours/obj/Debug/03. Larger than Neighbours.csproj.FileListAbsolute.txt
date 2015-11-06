@@ -1,0 +1,5 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Methods\03. Larger than Neighbours\bin\Debug\_03.Larger_than_Neighbours.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Methods\03. Larger than Neighbours\bin\Debug\_03.Larger_than_Neighbours.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Methods\03. Larger than Neighbours\bin\Debug\_03.Larger_than_Neighbours.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Methods\03. Larger than Neighbours\obj\Debug\_03.Larger_than_Neighbours.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Methods\03. Larger than Neighbours\obj\Debug\_03.Larger_than_Neighbours.pdb

@@ -1,0 +1,5 @@
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\14. DecimalToBinary\bin\Debug\_14.DecimalToBinary.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\14. DecimalToBinary\bin\Debug\_14.DecimalToBinary.exe
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\14. DecimalToBinary\bin\Debug\_14.DecimalToBinary.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\14. DecimalToBinary\obj\Debug\_14.DecimalToBinary.exe
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\14. DecimalToBinary\obj\Debug\_14.DecimalToBinary.pdb

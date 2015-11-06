@@ -1,0 +1,6 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Lists,Stacks,Queues\04. Sequance of Strings\bin\Debug\_04.Sequance_of_Strings.exe.config
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Homework - Lists,Stacks,Queues\04. Sequance of Strings\bin\Debug\_04.Sequance_of_Strings.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Homework - Lists,Stacks,Queues\04. Sequance of Strings\bin\Debug\_04.Sequance_of_Strings.pdb
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Homework - Lists,Stacks,Queues\04. Sequance of Strings\obj\Debug\04. Sequance of Strings.csprojResolveAssemblyReference.cache
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Homework - Lists,Stacks,Queues\04. Sequance of Strings\obj\Debug\_04.Sequance_of_Strings.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Homework - Lists,Stacks,Queues\04. Sequance of Strings\obj\Debug\_04.Sequance_of_Strings.pdb

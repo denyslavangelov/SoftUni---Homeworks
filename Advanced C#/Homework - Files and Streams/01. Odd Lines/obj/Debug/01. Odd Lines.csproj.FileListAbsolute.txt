@@ -1,0 +1,6 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Files and Streams\01. Odd Lines\bin\Debug\_01.Odd_Lines.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Files and Streams\01. Odd Lines\bin\Debug\_01.Odd_Lines.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Files and Streams\01. Odd Lines\bin\Debug\_01.Odd_Lines.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Files and Streams\01. Odd Lines\obj\Debug\01. Odd Lines.csprojResolveAssemblyReference.cache
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Files and Streams\01. Odd Lines\obj\Debug\_01.Odd_Lines.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Files and Streams\01. Odd Lines\obj\Debug\_01.Odd_Lines.pdb

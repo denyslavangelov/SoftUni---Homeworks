@@ -1,0 +1,5 @@
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\03. Min,Max,Sum and Average\bin\Debug\_03.Min_Max_Sum_and_Average.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\03. Min,Max,Sum and Average\bin\Debug\_03.Min_Max_Sum_and_Average.exe
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\03. Min,Max,Sum and Average\bin\Debug\_03.Min_Max_Sum_and_Average.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\03. Min,Max,Sum and Average\obj\Debug\_03.Min_Max_Sum_and_Average.exe
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\03. Min,Max,Sum and Average\obj\Debug\_03.Min_Max_Sum_and_Average.pdb

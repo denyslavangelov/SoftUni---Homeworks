@@ -1,0 +1,1 @@
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\16. Decimal to Hexadecimal Number\bin\Debug\_16.Decimal_to_Hexadecimal_Number.exe.config

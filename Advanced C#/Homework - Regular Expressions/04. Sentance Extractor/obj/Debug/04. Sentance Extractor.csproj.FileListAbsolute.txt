@@ -1,0 +1,1 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Regular Expressions\04. Sentance Extractor\bin\Debug\_04.Sentance_Extractor.exe.config

@@ -1,0 +1,6 @@
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\09. Matrix Of Numbers\bin\Debug\_09.Matrix_Of_Numbers.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\09. Matrix Of Numbers\bin\Debug\_09.Matrix_Of_Numbers.exe
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\09. Matrix Of Numbers\bin\Debug\_09.Matrix_Of_Numbers.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\09. Matrix Of Numbers\obj\Debug\09. Matrix Of Numbers.csprojResolveAssemblyReference.cache
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\09. Matrix Of Numbers\obj\Debug\_09.Matrix_Of_Numbers.exe
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\09. Matrix Of Numbers\obj\Debug\_09.Matrix_Of_Numbers.pdb

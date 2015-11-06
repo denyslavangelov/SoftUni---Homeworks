@@ -1,0 +1,6 @@
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.exe
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\13. BinaryToDecimal\obj\Debug\13. BinaryToDecimal.csprojResolveAssemblyReference.cache
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\13. BinaryToDecimal\obj\Debug\_13.BinaryToDecimal.exe
+c:\users\deny\documents\visual studio 2015\Projects\Loops ( Lecture ) - Homework\13. BinaryToDecimal\obj\Debug\_13.BinaryToDecimal.pdb

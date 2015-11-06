@@ -1,0 +1,5 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Files and Streams\04. Slicing Files\bin\Debug\_04.Slicing_Files.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Files and Streams\04. Slicing Files\bin\Debug\_04.Slicing_Files.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Files and Streams\04. Slicing Files\bin\Debug\_04.Slicing_Files.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Files and Streams\04. Slicing Files\obj\Debug\_04.Slicing_Files.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Files and Streams\04. Slicing Files\obj\Debug\_04.Slicing_Files.pdb

@@ -1,0 +1,6 @@
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\Exam Problems. 02. Odd Even Elements\bin\Debug\Exam_Problems._02.Odd_Even_Elements.exe.config
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\Exam Problems. 02. Odd Even Elements\bin\Debug\Exam_Problems._02.Odd_Even_Elements.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\Exam Problems. 02. Odd Even Elements\bin\Debug\Exam_Problems._02.Odd_Even_Elements.pdb
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\Exam Problems. 02. Odd Even Elements\obj\Debug\Exam_Problems._02.Odd_Even_Elements.exe
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\Exam Problems. 02. Odd Even Elements\obj\Debug\Exam_Problems._02.Odd_Even_Elements.pdb
+C:\Users\Deny\Documents\Visual Studio 2015\Projects\Loops ( Lecture ) - Homework\Exam Problems. 02. Odd Even Elements\obj\Debug\Exam Problems. 02. Odd Even Elements.csprojResolveAssemblyReference.cache

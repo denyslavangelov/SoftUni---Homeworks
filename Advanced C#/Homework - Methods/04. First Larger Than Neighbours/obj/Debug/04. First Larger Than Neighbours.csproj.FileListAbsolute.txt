@@ -1,0 +1,6 @@
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Methods\04. First Larger Than Neighbours\bin\Debug\_04.First_Larger_Than_Neighbours.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Methods\04. First Larger Than Neighbours\bin\Debug\_04.First_Larger_Than_Neighbours.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Methods\04. First Larger Than Neighbours\bin\Debug\_04.First_Larger_Than_Neighbours.pdb
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Methods\04. First Larger Than Neighbours\obj\Debug\04. First Larger Than Neighbours.csprojResolveAssemblyReference.cache
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Methods\04. First Larger Than Neighbours\obj\Debug\_04.First_Larger_Than_Neighbours.exe
+c:\users\deny\documents\visual studio 2015\Projects\Homework - Methods\04. First Larger Than Neighbours\obj\Debug\_04.First_Larger_Than_Neighbours.pdb
