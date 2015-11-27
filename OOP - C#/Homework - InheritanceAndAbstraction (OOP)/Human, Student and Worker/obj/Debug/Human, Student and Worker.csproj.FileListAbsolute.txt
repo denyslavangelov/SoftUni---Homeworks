@@ -1,0 +1,6 @@
+c:\users\deny\documents\visual studio 2015\Projects\InheritanceAndAbstraction (OOP)\Human, Student and Worker\bin\Debug\Human, Student and Worker.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\InheritanceAndAbstraction (OOP)\Human, Student and Worker\bin\Debug\Human, Student and Worker.exe
+c:\users\deny\documents\visual studio 2015\Projects\InheritanceAndAbstraction (OOP)\Human, Student and Worker\bin\Debug\Human, Student and Worker.pdb
+c:\users\deny\documents\visual studio 2015\Projects\InheritanceAndAbstraction (OOP)\Human, Student and Worker\obj\Debug\Human, Student and Worker.csprojResolveAssemblyReference.cache
+c:\users\deny\documents\visual studio 2015\Projects\InheritanceAndAbstraction (OOP)\Human, Student and Worker\obj\Debug\Human, Student and Worker.exe
+c:\users\deny\documents\visual studio 2015\Projects\InheritanceAndAbstraction (OOP)\Human, Student and Worker\obj\Debug\Human, Student and Worker.pdb
