@@ -1,0 +1,6 @@
+c:\users\deny\documents\visual studio 2015\Projects\EncapsulationAndPolymoprhism(OOP - Homework)\02. BankOfKurtovoKonare\bin\Debug\_02.BankOfKurtovoKonare.exe.config
+c:\users\deny\documents\visual studio 2015\Projects\EncapsulationAndPolymoprhism(OOP - Homework)\02. BankOfKurtovoKonare\obj\Debug\02. BankOfKurtovoKonare.csprojResolveAssemblyReference.cache
+c:\users\deny\documents\visual studio 2015\Projects\EncapsulationAndPolymoprhism(OOP - Homework)\02. BankOfKurtovoKonare\bin\Debug\_02.BankOfKurtovoKonare.exe
+c:\users\deny\documents\visual studio 2015\Projects\EncapsulationAndPolymoprhism(OOP - Homework)\02. BankOfKurtovoKonare\bin\Debug\_02.BankOfKurtovoKonare.pdb
+c:\users\deny\documents\visual studio 2015\Projects\EncapsulationAndPolymoprhism(OOP - Homework)\02. BankOfKurtovoKonare\obj\Debug\_02.BankOfKurtovoKonare.exe
+c:\users\deny\documents\visual studio 2015\Projects\EncapsulationAndPolymoprhism(OOP - Homework)\02. BankOfKurtovoKonare\obj\Debug\_02.BankOfKurtovoKonare.pdb
